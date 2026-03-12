@@ -1,11 +1,12 @@
-# Dice Roller APP 🎲
+# Dice Roller App 🎲
 
-This app is a dice roller app
-i make this app by. 
-kotlin language. 
+A simple Android dice roller application built with **Kotlin**.
 
-## features 
-dice image with animation roller 
+## Features
+- Dice rolling animation
+- Random dice result
+- Clean and simple code
 
-
-clean code 
+## Built With
+- Kotlin
+- Android Studio
